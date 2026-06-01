@@ -4,15 +4,15 @@ const APP_CONFIG = {
     DB_KEY: 'skol_al_rhman_db',
     
     // 2. إصدار التطبيق (قم بتغييره لإجبار الأجهزة على تحديث النظام)
-    APP_VERSION: 'v8',
+    APP_VERSION: 'v9',
 
     // 3. إعدادات Firebase الخاصة بالنسخة
     FIREBASE_CONFIG: {
-        apiKey: "AIzaSyBBTgKrUmvmgfgdC_rvTjxnkBlsbu23gqA",
-        authDomain: "skol-al-rhman.firebaseapp.com",
-        projectId: "skol-al-rhman",
-        storageBucket: "skol-al-rhman.firebasestorage.app",
-        messagingSenderId: "757664712826",
-        appId: "1:757664712826:web:cb595e976cc47b9515d3c3"
+        apiKey: "AIzaSyDueK3z2P9lTH79RSyRl40w1WFmznuCsUc",
+        authDomain: "scol-810e1.firebaseapp.com",
+        projectId: "scol-810e1",
+        storageBucket: "scol-810e1.firebasestorage.app",
+        messagingSenderId: "1012859853609",
+        appId: "1:1012859853609:web:d51d65088b8b5b5e703538"
     }
 };
